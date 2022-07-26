@@ -29,10 +29,10 @@ If you are interested in the tools and software I use, check out my <a href="htt
 
 <p align=center>  
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=excalith&theme=vision-friendly-dark&bg_color=0a0a0a&show_icons=true&border_radius=5&&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=contribs&border_color=0a0a0a&line_height=24">
+        <img src="https://github-readme-stats-excalith.vercel.app/api?username=excalith&theme=vision-friendly-dark&bg_color=0a0a0a&show_icons=true&border_radius=5&&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=issues&border_color=0a0a0a&line_height=24">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excalith&layout=compact&theme=vision-friendly-dark&bg_color=0a0a0a&border_color=0a0a0a&langs_count=6&hide=html&custom_title=Top%20Languages&card_width=265">
+    <img src="https://github-readme-stats-excalith.vercel.app/api/top-langs/?username=excalith&layout=compact&theme=vision-friendly-dark&bg_color=0a0a0a&border_color=0a0a0a&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=html,css,scss,php,javascript,lua,ruby">
     </a>
 </p>
 
