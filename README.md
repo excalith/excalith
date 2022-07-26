@@ -3,7 +3,7 @@
         <img  width="800" height="281" src="banner.png">
     </a>
 </p>
-<h2 align="center">Hey there!</h2>
+<h2 align="center">Hey There!</h2>
 
 <p align="center">
 I am Can, a multidisciplinary designer & developer with a focus on game development & R&D projects. I have worked in different industries from animation to game development that lead me to gain a wide variety of knowledge. Due to my varied work experience, I use lots of apps and tools on a daily basis. 
@@ -29,10 +29,10 @@ If you are interested in the tools and software I use, check out my <a href="htt
 
 <p align=center>  
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-excalith.vercel.app/api?username=excalith&theme=vision-friendly-dark&bg_color=0a0a0a&show_icons=true&border_radius=5&&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=issues&border_color=0a0a0a&line_height=24">
+        <img src="https://github-readme-stats-excalith.vercel.app/api?username=excalith&theme=vision-friendly-dark&bg_color=0a0a0a&show_icons=true&border_radius=5&&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=issues&border_color=0a0a0a&line_height=24&title_color=3cc474&icon_color=31a8ff">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-excalith.vercel.app/api/top-langs/?username=excalith&layout=compact&theme=vision-friendly-dark&bg_color=0a0a0a&border_color=0a0a0a&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=html,css,scss,php,javascript,lua,ruby">
+    <img src="https://github-readme-stats-excalith.vercel.app/api/top-langs/?username=excalith&layout=compact&theme=vision-friendly-dark&bg_color=0a0a0a&border_color=0a0a0a&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=html,css,scss,php,javascript,lua,ruby&title_color=3cc474">
     </a>
 </p>
 
