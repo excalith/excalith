@@ -14,21 +14,26 @@ If you are interested in the tools and software I use, check out my <a href="htt
 </p>
 
 <p align="center">
-<a href="https://cancellek.com" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Portfolio-%232C3454.svg?style=for-the-badge" height=25>
-</a> 
-<a href="https://linkedin.com/in/cancellek/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://polywork.com/excalith/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" height=25>
-</a> 
+    <a href="https://cancellek.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-%232C3454.svg?style=for-the-badge" height=25>
+    </a> 
+    <a href="https://linkedin.com/in/cancellek/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    </a> 
+    <a href="https://polywork.com/excalith/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" height=25>
+    </a>
 </p>
 
 <hr>
 
 <p align=center>  
-     <img align=center src="https://github-readme-stats.vercel.app/api?username=excalith&theme=vision-friendly-dark&show_icons=true&border_radius=5&&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=contribs&border_color=000000">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=excalith&theme=vision-friendly-dark&bg_color=0a0a0a&show_icons=true&border_radius=5&&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=contribs&border_color=0a0a0a&line_height=24">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excalith&layout=compact&theme=vision-friendly-dark&bg_color=0a0a0a&border_color=0a0a0a&langs_count=6&hide=html&custom_title=Top%20Languages">
+    </a>
 </p>
 
 <p align="center">
@@ -47,6 +52,7 @@ If you are interested in the tools and software I use, check out my <a href="htt
     <img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
