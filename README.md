@@ -10,7 +10,6 @@ I am Can, a multidisciplinary designer & developer with a focus on game developm
 </p>
 
 <p align="center">
-Please feel free to <a href="https://cancellek.com/contact" target="_blank" rel="noopener noreferrer">contact me</a>.
 If you are interested in the tools and software I use, check out my <a href="https://cancellek.com/uses" target="_blank" rel="noopener noreferrer">uses page</a>.
 </p>
 
@@ -29,7 +28,7 @@ If you are interested in the tools and software I use, check out my <a href="htt
 <hr>
 
 <p align=center>  
-     <img align=center src="https://github-readme-stats.vercel.app/api?username=excalith&theme=codeSTACKr&show_icons=true&border_radius=5&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=contribs&hide_border=true">
+     <img align=center src="https://github-readme-stats.vercel.app/api?username=excalith&theme=vision-friendly-dark&show_icons=true&border_radius=5&&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=contribs&border_color=000000">
 </p>
 
 <p align="center">
