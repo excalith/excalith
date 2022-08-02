@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://cancellek.com" target="_blank" rel="noopener noreferrer">
-        <img  width="800" height="281" src="banner.png">
+        <img  max-width="800" max-height="281" src="banner.png">
     </a>
 </p>
 <h2 align="center">Hey There!</h2>
