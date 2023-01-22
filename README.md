@@ -6,11 +6,11 @@
 <h2 align="center">Hey There!</h2>
 
 <p align="center">
-I am Can, a multidisciplinary designer & developer with a focus on game development & R&D projects. I have worked in different industries from animation to game development that lead me to gain a wide variety of knowledge. Due to my varied work experience, I use lots of apps and tools on a daily basis. 
+I am Can, a creative force who blends technical expertise with artistic vision. My passion for game development and R&D projects has led me on a journey through various industries, from animation to game development, where I have honed my multidisciplinary skills from game engines and 3D modeling software, to programming languages and animation tools. I am always on the lookout for new and innovative ways to enhance my craft.
 </p>
 
 <p align="center">
-If you are interested in the tools and software I use, check out my <a href="https://cancellek.com/uses" target="_blank" rel="noopener noreferrer">uses page</a>.
+If you're interested in learning more about the tools and software I use, head over to my  <a href="https://cancellek.com/uses" target="_blank" rel="noopener noreferrer">uses</a> page, where I share my preferred tools and software.
 </p>
 
 <p align="center">
