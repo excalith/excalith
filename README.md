@@ -34,7 +34,11 @@ If you're interested in learning more about the tools and software I use, head o
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-excalith.vercel.app/api/top-langs/?username=excalith&layout=compact&theme=vision-friendly-dark&bg_color=0a0a0a&border_color=0a0a0a&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=shell,python,html,css,scss,php,javascript,ruby,jupyter%20notebook&title_color=3cc474">
     </a>
+
+[![An image of @excalith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/excalith)](https://holopin.io/@excalith)
 </p>
+
+<hr>
 
 <p align="center">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
