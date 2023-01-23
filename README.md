@@ -6,7 +6,7 @@
 <h2 align="center">Hey There!</h2>
 
 <p align="center">
-I am Can, a creative force who blends technical expertise with artistic vision. My passion for game development and R&D projects has led me on a journey through various industries, from animation to game development, where I have honed my multidisciplinary skills from game engines and 3D modeling software, to programming languages and animation tools. I am always on the lookout for new and innovative ways to enhance my craft.
+I am Can, a creative who blends technical expertise with artistic vision. My passion for game development and R&D projects has led me on a journey through various industries, from animation to game development, where I have honed my multidisciplinary skills from game engines and 3D modeling software, to programming languages and animation tools. I am always on the lookout for new and innovative ways to enhance my craft.
 </p>
 
 <p align="center">
