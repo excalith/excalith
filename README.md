@@ -15,8 +15,11 @@ If you're interested in learning more about the tools and software I use, head o
 
 <p align="center">
     <a href="https://cancellek.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Portfolio-%232C3454.svg?style=for-the-badge" height=25>
-    </a> 
+        <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ghost&logoColor=yellow" height=25>
+    </a>
+    <a href="https://dev.to/excalith" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/excalith-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height=25>
+    </a>
     <a href="https://linkedin.com/in/cancellek/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a> 
