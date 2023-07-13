@@ -35,7 +35,7 @@ If you're interested in learning more about the tools and software I use, head o
         <img src="https://github-readme-stats-excalith.vercel.app/api?username=excalith&theme=vision-friendly-dark&bg_color=0a0a0a&show_icons=true&border_radius=5&&count_private=true&include_all_commits=true&custom_title=Github%20Stats&hide=issues&border_color=0a0a0a&line_height=24&title_color=3cc474&icon_color=31a8ff">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-excalith.vercel.app/api/top-langs/?username=excalith&layout=compact&theme=vision-friendly-dark&bg_color=0a0a0a&border_color=0a0a0a&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=vue,shell,python,html,css,scss,php,javascript,ruby,jupyter%20notebook&title_color=3cc474">
+    <img src="https://github-readme-stats-excalith.vercel.app/api/top-langs/?username=excalith&layout=compact&theme=vision-friendly-dark&bg_color=0a0a0a&border_color=0a0a0a&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=mdx,vue,shell,python,html,css,scss,php,javascript,ruby,jupyter%20notebook&title_color=3cc474">
     </a>
 
 [![An image of @excalith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/excalith)](https://holopin.io/@excalith)
